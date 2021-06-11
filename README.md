@@ -4,4 +4,4 @@ Mini projet pour s'exercer au react. Le but de ce projet est de créer un mise e
 
 ## Demo
 
-https://galerie-react.vercel.app/
+Sur [Vercel](https://galerie-react.vercel.app/)
